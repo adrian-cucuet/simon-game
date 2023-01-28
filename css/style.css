@@ -28,27 +28,27 @@ h2 {
 .circle1 {
     height: 500px;
     width: 500px;
-    background-color: #009FE3;
+    background-color: #08326A;
 }
 
 .circle2 {
     height: 400px;
     width: 400px;
-    background-color: #445261;
+    background-color: #F08407;
     top: 50px;
     left: 50px;
 }
 .circle3 {
     height: 300px;
     width: 300px;
-    background-color: #EFB920;
+    background-color: #1598A7;
     top: 100px;
     left: 100px;
 }
 .circle4 {
     height: 200px;
     width: 200px;
-    background-color: #23BBBB;
+    background-color: #F2C034;
     top: 150px;
     left: 150px;
 }
@@ -57,7 +57,7 @@ h2 {
     border-radius: 25%;
     box-sizing: border-box;
     position: absolute;
-    background-color: #E6ECF0;
+    background-color: #D4CB9B;
     height: 80px;
     width: 80px;
     top: 210px;
@@ -69,7 +69,7 @@ h2 {
 }
 
 .button {
-    background-color: #FF5A60;
+    background-color: #B94F40;
     color: #FFF;
     border: 0;
     height: 40px;
